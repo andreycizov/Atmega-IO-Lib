@@ -1,1 +1,2 @@
-The implementation of circular buffer for Atmega series as well as some useful routines for reading from USART interface.
+The implementation of a circular (ring) buffer for Atmega series in circular.h
+Useful routines for reading from USART serial interface in usart.h (both synchronously and asynchronously)
